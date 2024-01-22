@@ -1,4 +1,4 @@
-<img src="https://github.com/sebastianbahr/urban-environment-CH//images/Firefly_city_CH.png" alt="Title image 1" class="center" style="margin: 0px 0px 0px 0px; padding: 2px 2px 2px 2px;" />
+<img src="https://github.com/sebastianbahr/urban-environment-CH/images/Firefly_city_CH.png" alt="Title image 1" class="center" style="margin: 0px 0px 0px 0px; padding: 2px 2px 2px 2px;" />
 
 
 # urban-environment-CH
