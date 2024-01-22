@@ -11,4 +11,4 @@ The code files can be found in the folder ```code```. Please run them in the fol
 * segmentation_CH.ipynb
 * add_land_use_data.ipynb
 * analysis_land_types.R
-* visulaizations.ipynb
+* visualizations.ipynb
