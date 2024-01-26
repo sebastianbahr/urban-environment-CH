@@ -12,3 +12,7 @@ The code files can be found in the folder ```code```. Please run them in the fol
 * add_land_use_data.ipynb
 * analysis_land_types.R
 * visualizations.ipynb
+
+
+## Land cover and usage data
+If you don't want to regenerate the land cover and usage data, it is available in the ```data``` folder. It contains the proportion of the residents' neighborhoods covered by different greenery land types. Further, the proportion covered by land usage categories and the corresponding entropy score are reported as well. The suffix ```_210``` or ```_630``` indicates the buffer size of the neighborhood area considered in the calculation, in meters. The data set consists of all households surveyed in wave 21 of the Swiss Household Panel (SHP) aged between 20 and 85 and living in postcodes with a population density of at least 500 inhabitants / km2. It can be matched with the SHP survey data using the household-ID ```idhous21```. However, the SHP data need to be requested at [FORS](https://forscenter.ch/projects/swiss-household-panel/data/). The geocoordinates used in the analysis are not included in this data and need to be inquired additionaly at FORS.
